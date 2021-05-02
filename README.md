@@ -3,3 +3,6 @@ This is the front-end part of a login &amp; sign up (as u can see in the name of
 
 # How this works
 Basically, there're two pages (login and sign up) for the user put his username or email and his password.
+
+# Free
+U can use it in your projects for free.
